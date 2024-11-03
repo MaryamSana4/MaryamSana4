@@ -7,12 +7,6 @@
   <a href="mailto:maryamsana411@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-maryamsana411@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://facebook.com/your-facebook">
-    <img src="https://img.shields.io/badge/Facebook-YourFacebookPage-green?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://www.fiverr.com/your-fiverr-username">
-    <img src="https://img.shields.io/badge/Fiverr-YourFiverrUsername-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr">
-  </a>
 </p>
 
 ---

@@ -1,6 +1,7 @@
 <h2 align="center">
   ## Get in Touch for Freelance Consultation 📫
 </h2>
+
 <p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam%20Sana-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-s-a40035248)
 [![Gmail](https://img.shields.io/badge/Gmail-maryamsana411@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:maryamsana411@gmail.com)
@@ -12,6 +13,7 @@
 <h2 align="center">
   ## Tools I Use! 🛠️
 </h2>
+
 <p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)

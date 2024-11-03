@@ -9,7 +9,6 @@
   </a>
 </p>
 
----
 
 <h2 align="center"> Tools I Use 🛠️</h2>
 

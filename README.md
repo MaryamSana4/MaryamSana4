@@ -19,11 +19,6 @@
 
 ---
 
-### Step 2: Center the "Tools I Use" Section
-
-Similarly, center the tool badges with `<p align="center">` tags.
-
-```markdown
 <p align="center">
   <strong>## Tools I Use! 🛠️</strong>
 </p>

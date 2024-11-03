@@ -1,5 +1,5 @@
 <h2 align="center">
-  Get in Touch for Freelance Consultation 📫
+  ## Get in Touch for Freelance Consultation 📫
 </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam%20Sana-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-s-a40035248)
@@ -8,8 +8,10 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-YourFiverrUsername-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/your-fiverr-username)
 ---
 
-## Tools I Use! 🛠️
 
+<h2 align="center">
+  ## Tools I Use! 🛠️
+</h2>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)

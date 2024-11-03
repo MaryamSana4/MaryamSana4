@@ -1,7 +1,7 @@
 ## Get in Touch for Freelance Consultation 📫
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Jameel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-danish.jameel.official@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:danish.jameel.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam%20Sana-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin.com/in/maryam-s-a40035248)
+[![Gmail](https://img.shields.io/badge/Gmail-maryamsana411@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:maryamsana411@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-YourFacebookPage-green?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-facebook)
 [![Fiverr](https://img.shields.io/badge/Fiverr-YourFiverrUsername-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/your-fiverr-username)
 ---

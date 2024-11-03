@@ -25,7 +25,7 @@
 </p>
 
 
-<h2 align="center">Skills I Have! 🤸‍♂️</h2>
+<h2 align="center">Skills I Have 🤸‍♂️</h2>
 
 <table align="center">
   <tr>

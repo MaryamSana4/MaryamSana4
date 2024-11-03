@@ -1,6 +1,4 @@
-<p align="center">
-  <strong>## Get in Touch for Freelance Consultation 📫</strong>
-</p>
+<h2 align="center">Get in Touch for Freelance Consultation 📫 </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maryam-s-a40035248">
@@ -19,9 +17,7 @@
 
 ---
 
-<p align="center">
-  <strong>## Tools I Use! 🛠️</strong>
-</p>
+<h2 align="center"> Tools I Use 🛠️</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">

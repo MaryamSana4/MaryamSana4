@@ -14,8 +14,9 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Data%20Visualization-2196F3?style=flat&logo=tableau&logoColor=white" alt="Data Visualization"></td>
-    <td><img src="https://img.shields.io/badge/Mapping%20%26%20Geographic%20Data-4CAF50?style=flat&logo=google-maps&logoColor=white" alt="Mapping & Geographic Data"></td>
     <td><img src="https://img.shields.io/badge/Authentication%20Systems-FF9800?style=flat&logo=lock&logoColor=white" alt="Authentication Systems"></td>
+    <td><img src="https://img.shields.io/badge/Mapping%20%26%20Geographic%20Data-4CAF50?style=flat&logo=google-maps&logoColor=white" alt="Mapping & Geographic Data"></td>
+    
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Reinforcement%20Learning-3776AB?style=flat&logo=deepmind&logoColor=white" alt="Reinforcement Learning"></td>

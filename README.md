@@ -1,4 +1,6 @@
-## Get in Touch for Freelance Consultation 📫
+<h2 align="center">
+  Get in Touch for Freelance Consultation 📫
+</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam%20Sana-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-s-a40035248)
 [![Gmail](https://img.shields.io/badge/Gmail-maryamsana411@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:maryamsana411@gmail.com)

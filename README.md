@@ -1,3 +1,30 @@
+<h2 align="center">Projects I’ve Worked On 💼</h2>
+
+<p align="center">
+  As an AI Engineer, I've had the opportunity to work on diverse projects that combine cutting-edge artificial intelligence and machine learning techniques with practical applications. My projects span across various domains, from developing deep learning models for computer vision to creating data-driven solutions for predictive analytics. Each project has helped me refine my skills and deepen my understanding of AI, enabling me to create impactful solutions that address real-world challenges.
+</p>
+
+<p align="center">
+  Below are some areas I’ve focused on in my projects:
+</p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Computer%20Vision-3776AB?style=flat&logo=opencv&logoColor=white" alt="Computer Vision"></td>
+    <td><img src="https://img.shields.io/badge/Natural%20Language%20Processing-FF6F00?style=flat&logo=python&logoColor=white" alt="Natural Language Processing"></td>
+    <td><img src="https://img.shields.io/badge/Recommendation%20Systems-4CAF50?style=flat&logo=python&logoColor=white" alt="Recommendation Systems"></td>
+    <td><img src="https://img.shields.io/badge/Predictive%20Analytics-FF5722?style=flat&logo=python&logoColor=white" alt="Predictive Analytics"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Anomaly%20Detection-2196F3?style=flat&logo=python&logoColor=white" alt="Anomaly Detection"></td>
+    <td><img src="https://img.shields.io/badge/Chatbots%20and%20Virtual%20Assistants-673AB7?style=flat&logo=dialogflow&logoColor=white" alt="Chatbots and Virtual Assistants"></td>
+    <td><img src="https://img.shields.io/badge/Time%20Series%20Forecasting-3F51B5?style=flat&logo=python&logoColor=white" alt="Time Series Forecasting"></td>
+    <td><img src="https://img.shields.io/badge/Sentiment%20Analysis-FF9800?style=flat&logo=python&logoColor=white" alt="Sentiment Analysis"></td>
+  </tr>
+</table>
+
+---
+
 <h2 align="center">Get in Touch for Freelance Consultation 📫 </h2>
 
 <p align="center">
@@ -8,7 +35,6 @@
     <img src="https://img.shields.io/badge/Gmail-maryamsana411@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
 
 <h2 align="center"> Tools I Use 🛠️</h2>
 
@@ -22,7 +48,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly">
 </p>
-
 
 <h2 align="center">Skills I Have 🤸‍♂️</h2>
 
